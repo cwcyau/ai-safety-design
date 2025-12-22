@@ -2,11 +2,14 @@
 
 ## Background
 
-Artificial Intelligence (AI) is software that is capable of performing one or more tasks using processes based on context and information available to it at the time. 
+Artificial Intelligence (AI) is software that is capable of performing one or more tasks using processes based on context and information available to it at the time. There are many AI products which have been developed (or are being developed) for medical purposes.
 
 ## Purpose
 
-The purpose of this workshop is to introduce participants to two illustrative examples where medical AI could be used. Participants will gain some understanding of the way in which AI is different to conventional software. 
+The purpose of this workshop is to introduce participants to two illustrative examples where medical AI could be used. Participants will gain understanding of the:
+
+- the way in which AI is different to conventional software
+- the issues that AI 
 
 ## Before the workshop
 
