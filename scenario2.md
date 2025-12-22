@@ -1,6 +1,4 @@
-# Scenario 2
-
-*The following is a scenario involving a hypothetical AI-based medical device. Any resemblence to a real AI product is unintentional.*
+*The following is a scenario involving a hypothetical AI-based medical device. Any resemblence to a real AI product is coincidental and unintentional.*
 
 ## Description
 
