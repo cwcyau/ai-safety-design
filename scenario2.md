@@ -18,7 +18,7 @@ The hospital must now decide whether to keep the upgrade.
 
 ## Discussion Questions
 
-### Overall Benefit vs Unequal Impact
+### Immediate Reaction (Before the workshop)
 
 Does the fact that the upgrade improves accuracy overall mean it should be kept?
 
@@ -26,7 +26,7 @@ Should improvements for the majority outweigh potential harm to a small minority
 
 Would your answer change if the affected group were larger or smaller?
 
-## Safety & Acceptability
+## Safety & Acceptability (During the workshop)
 
 Does it concern you that a software upgrade can change medical diagnoses?
 
@@ -34,7 +34,7 @@ Should upgrades in healthcare be treated differently from upgrades in other soft
 
 Is it acceptable for diagnoses to change if the system is “more accurate”?
 
-## Fairness & Ethics
+## Fairness & Ethics (During the workshop)
 
 Does the small size of the affected group matter ethically?
 
