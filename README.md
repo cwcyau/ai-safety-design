@@ -8,10 +8,11 @@ AI could be potentially highly beneficial for modern healthcare but we currenly 
 
 ## Purpose
 
-The purpose of this workshop is to introduce participants to two illustrative examples where medical AI could be used. Participants will gain understanding of the:
+The purpose of this workshop is to introduce participants to two illustrative examples where medical AI could be used. Participants will:
 
-- the way in which AI is different to conventional software
-- the issues that AI 
+- gain understanding of the way in which AI is different to conventional software
+- discuss the issues that AI poses in these medical settings
+- provide a response to future AI for medical design
 
 ## Before the workshop
 
