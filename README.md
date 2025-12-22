@@ -8,9 +8,9 @@ Artificial Intelligence (AI) is software that is capable of performing one or mo
 
 The purpose of this workshop is to introduce participants to two illustrative examples where medical AI could be used. Participants will gain some understanding of the way in which AI is different to conventional software. 
 
-## Scenarios
+## Before the workshop
 
-The following are two scenarios 
+Before the workshop, please read the description of both scenarios and consider the *immediate* questions posed after. You may also consider the other questions which will be discussed during the workshop:
 
 [Scenario 1](scenario1.md) - in this example, we examine a situation in which an AI learns to improve and the consequences for those the AI affects
 
