@@ -1,5 +1,7 @@
 # Scenario 2
 
+*The following is a scenario involving a hypothetical AI-based medical device. Any resemblence to a real AI product is unintentional.*
+
 ## Description
 
 The manufacturer of an AI system used to analyse cancer biopsy images informs a hospital that a software upgrade is available. The manufacturer says the new version is “better overall” than the current system.
