@@ -10,6 +10,8 @@ The purpose of this workshop is to introduce participants to two illustrative ex
 
 ## Scenarios
 
+The following are two scenarios 
+
 [Scenario 1](scenario1.md) - in this example, we examine a situation in which an AI learns to improve and the consequences for those the AI affects
 
 [Scenario 2](scenario2.md) - in this example, we examine how software upgrades can lead to challenges in assessing the usefulness of the upgrade
