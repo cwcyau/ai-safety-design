@@ -4,6 +4,8 @@
 
 Artificial Intelligence (AI) is software that is capable of performing one or more tasks using processes based on context and information available to it at the time. There are many AI products which have been developed (or are being developed) for medical purposes. AI could be used to analyse medical images, make treatment recommendations and help doctors to create, organise and arrange their entire patient management plan.
 
+AI could potentially be highly beneficial for modern healthcare.  
+
 ## Purpose
 
 The purpose of this workshop is to introduce participants to two illustrative examples where medical AI could be used. Participants will gain understanding of the:
