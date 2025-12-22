@@ -1,5 +1,7 @@
 # Scenario 1
 
+*The following is a scenario involving a hypothetical AI-based medical device. Any resemblence to a real AI product is unintentional.*
+
 ## Description
 
 An AI system is used in a hospital to analyse cancer biopsy images and support pathologists in deciding which cases require urgent attention.
