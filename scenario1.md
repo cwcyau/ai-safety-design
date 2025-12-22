@@ -22,13 +22,13 @@ The manufacturer explains that without continual learning, the system could not 
 
 ## Discussion Questions
 
-### Immediate Reaction
+### Immediate Reaction (Before the workshop)
 
 - Is it a good thing that the AI system continually improves while in use?
 
 - How would you feel as a patient knowing your diagnosis might depend on the order in which data was entered that day?
 
-### Safety & Trust
+### Safety & Trust (During the workshop)
 
 - If the same patient data can lead to different outcomes on the same day, would you consider this system safe?
 
@@ -36,7 +36,7 @@ The manufacturer explains that without continual learning, the system could not 
 
 - Is a "slight change" acceptable to you as a patient?
 
-### Regulation & Governance
+### Regulation & Governance (During the workshop)
 
 - Should regulators require approval every time a medical AI changes?
 
