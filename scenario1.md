@@ -14,6 +14,9 @@ After doing so, they notice something unexpected ... *the AI’s outputs are not
 
 Some patients who were previously flagged as high priority are no longer flagged, while others are.
 
+![Order dependence](/figures/scenario1.png "Before and after IT incident")
+
+
 When the pathologists contact the manufacturer, they are told that the system is continually learning. Because the patient data was re-entered in a different order, the system updated itself differently, leading to slightly different predictions.
 
 The pathologists were not aware that the system continued learning after deployment.
