@@ -16,7 +16,6 @@ Some patients who were previously flagged as high priority are no longer flagged
 
 ![Order dependence](/figures/scenario1.png "Before and after IT incident")
 
-
 When the pathologists contact the manufacturer, they are told that the system is continually learning. Because the patient data was re-entered in a different order, the system updated itself differently, leading to slightly different predictions.
 
 The pathologists were not aware that the system continued learning after deployment.
