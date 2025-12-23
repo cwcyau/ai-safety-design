@@ -12,7 +12,7 @@ This workshop invites members of the public to explore what "safe AI" should mea
 
 By the end of the workshop, participants will agree on a small set of safety features that they believe should be built into AI systems from the start, especially when those systems affect human wellbeing.
 
-The purpose of this workshop is to introduce participants to two illustrative examples where medical AI could be used. Participants will:
+Participants will:
 
 - gain understanding of the way in which AI is different to conventional software
 - discuss the issues that AI poses in these medical settings
