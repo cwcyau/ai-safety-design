@@ -14,7 +14,7 @@ After doing so, they notice something unexpected ... *the AI’s outputs are not
 
 Some patients who were previously flagged as high priority are no longer flagged, while others are.
 
- <img src="/figures/scenario1.png" alt="Before and after IT incident" width="1672" height="840"> 
+ <img src="/figures/scenario1.png" alt="Before and after IT incident" width="836" height="420"> 
 
 When the pathologists contact the manufacturer, they are told that the system is continually learning. Because the patient data was re-entered in a different order, the system updated itself differently, leading to slightly different predictions.
 
